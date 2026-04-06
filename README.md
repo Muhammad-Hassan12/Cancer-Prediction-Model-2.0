@@ -9,6 +9,8 @@ X-Pathology V2.0 is a lightweight, high-performance deep learning model engineer
 
 Designed with edge-deployment in mind, the model balances computational efficiency with robust predictive power, making it ideal for integration into web applications and clinical diagnostic pipelines.
 
+This model is currently the CNN Engine of project **X-Pathology:** https://x-pathology.vercel.app/!
+
 ## Clinical Categories
 The model has been trained to identify the following 5 tissue classes:
 1. **Colon Adenocarcinoma** (`colon_aca`) - Malignant
